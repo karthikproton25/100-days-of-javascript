@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "/Users/karthik/Desktop/JS-workable/Fronteend-reactjs-projects/100-days-of-javascript",
+			"problemMatcher": [
+				"$eslint-stylish"
+			],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
